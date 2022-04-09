@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Minchanjung
+- 👀 I’m interested in learning to code and working out
+- 🌱 I’m currently learning frontend dev
+- 📫 You can reach me through minchanjung1@gmail.com
